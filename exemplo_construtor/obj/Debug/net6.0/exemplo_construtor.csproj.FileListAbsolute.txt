@@ -1,0 +1,15 @@
+C:\Users\ETEC\Desktop\exemplo_construtor\bin\Debug\net6.0\exemplo_construtor.exe
+C:\Users\ETEC\Desktop\exemplo_construtor\bin\Debug\net6.0\exemplo_construtor.deps.json
+C:\Users\ETEC\Desktop\exemplo_construtor\bin\Debug\net6.0\exemplo_construtor.runtimeconfig.json
+C:\Users\ETEC\Desktop\exemplo_construtor\bin\Debug\net6.0\exemplo_construtor.dll
+C:\Users\ETEC\Desktop\exemplo_construtor\bin\Debug\net6.0\exemplo_construtor.pdb
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\exemplo_construtor.csproj.AssemblyReference.cache
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\exemplo_construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\exemplo_construtor.AssemblyInfoInputs.cache
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\exemplo_construtor.AssemblyInfo.cs
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\exemplo_construtor.csproj.CoreCompileInputs.cache
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\exemplo_construtor.dll
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\refint\exemplo_construtor.dll
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\exemplo_construtor.pdb
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\exemplo_construtor.genruntimeconfig.cache
+C:\Users\ETEC\Desktop\exemplo_construtor\obj\Debug\net6.0\ref\exemplo_construtor.dll
